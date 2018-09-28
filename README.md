@@ -1,1 +1,1 @@
-# QT-Administration-tool-for-MySQL
+C++ QT GUI application - administration tool for MySQL
